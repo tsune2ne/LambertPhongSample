@@ -1,0 +1,12 @@
+Library/
+Logs/
+Temp/
+*.unityproj
+
+.vs
+.vsconfig
+*.sln
+
+.DS_Store
+.Trashes
+Thumbs.db
